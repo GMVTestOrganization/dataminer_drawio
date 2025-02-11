@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <templates>
   <clibs name="sample_library">
-    <add>https://raw.githubusercontent.com/GMVTestOrganization/dataminer_drawio/refs/heads/main/libraries/sample_library.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/GMVTestOrganization/dataminer_drawio/refs/heads/main/libraries/sample_library.xml</add>
   </clibs>
   <template section="Flow" subsection="Flow diagram" title="Diagram" name="Tooltip" clibs="sample_library" url="https://raw.githubusercontent.com/jgraph/drawio/refs/heads/dev/src/main/webapp/templates/flowcharts/cross_functional_flowchart_1.xml"/>
 </templates>
